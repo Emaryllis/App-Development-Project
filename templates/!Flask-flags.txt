@@ -1,0 +1,4 @@
+{% extends "dashboardBase.html" %}
+{% block title %}{% endblock %}
+{% block content %}{% endblock %}
+{{url_for('static', filename='')}}
